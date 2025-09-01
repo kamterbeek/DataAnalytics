@@ -1,4 +1,4 @@
 Notes to reference on my journey.
 My goals - 
 1. Demonstrate Excel expertise 
-
+2. Demonstrate Power BI understanding
