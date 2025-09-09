@@ -3,4 +3,4 @@ My goals -
 1. Demonstrate Excel expertise 
 2. Demonstrate Power BI understanding
 3. Demonstrate ETL knowledge
-4. Demonstrate ability to work with large
+4. Demonstrate ability to work with large datasets
