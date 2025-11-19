@@ -5,3 +5,4 @@ My goals -
 3. Demonstrate ETL knowledge
 4. Demonstrate ability to work with large datasets
 5. Use of Postgres
+6. Use of MySQL
