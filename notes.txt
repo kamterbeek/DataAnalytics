@@ -6,3 +6,6 @@ My goals -
 4. Demonstrate ability to work with large datasets
 5. Use of Postgres
 6. Use of MySQL
+
+Projects: 
+1. weather systems
