@@ -10,4 +10,4 @@ My goals -
 Projects: 
 1. weather systems
 2. neuroscience 
-3. native gardening
+3. native gardenin
