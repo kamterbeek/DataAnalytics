@@ -12,5 +12,3 @@ Projects:
 2. neuroscience 
 3. native gardening
 4. inventory analysis (books, music, etc.)
-
-
