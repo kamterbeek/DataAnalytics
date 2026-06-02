@@ -12,4 +12,4 @@ Projects:
 3. native gardening
 4. inventory analysis (books, music, etc.)
 
-This is for CodeBasics
+This is for CodeBasics bootcamps
