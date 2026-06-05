@@ -13,3 +13,5 @@ Projects:
 4. inventory analysis (books, music, etc.)
 
 This is for CodeBasics bootcamps
+
+SQL Expertise Goals
